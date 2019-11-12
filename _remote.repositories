@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 11 19:18:09 IST 2019
+test-1.0.jar>=
+test-1.0.pom>=
